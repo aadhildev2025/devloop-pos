@@ -1,0 +1,25 @@
+{
+  "name": "devloop-pos",
+  "version": "1.0.0",
+  "description": "DevLoop POS - Retail and Inventory Management System",
+  "main": "backend/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "node backend/server.js",
+    "frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  },
+  "keywords": [
+    "pos",
+    "point-of-sale",
+    "retail",
+    "inventory",
+    "barcode",
+    "invoicing"
+  ],
+  "author": "DevLoop",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^10.0.6"
+  }
+}

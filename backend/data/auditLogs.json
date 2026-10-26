@@ -1,0 +1,44 @@
+[
+  {
+    "action": "USER_LOGIN",
+    "reference": "admin",
+    "details": "User Kasun Rathnayake (Admin) logged in successfully",
+    "entityType": "user",
+    "entityId": "doc_1792962664460_nupu7t",
+    "userId": "doc_1792962664460_nupu7t",
+    "userName": "Kasun Rathnayake (Admin)",
+    "userRole": "admin",
+    "ip": "::1",
+    "createdAt": "2026-10-26T05:01:51.857Z",
+    "id": "doc_1792990911857_pul1p1",
+    "updatedAt": "2026-10-26T05:01:51.857Z"
+  },
+  {
+    "action": "USER_LOGIN",
+    "reference": "admin",
+    "details": "User Kasun Rathnayake (Admin) logged in successfully",
+    "entityType": "user",
+    "entityId": "doc_1792962664460_nupu7t",
+    "userId": "doc_1792962664460_nupu7t",
+    "userName": "Kasun Rathnayake (Admin)",
+    "userRole": "admin",
+    "ip": "::1",
+    "createdAt": "2026-10-26T05:01:58.569Z",
+    "id": "doc_1792990918569_vhgwn5",
+    "updatedAt": "2026-10-26T05:01:58.569Z"
+  },
+  {
+    "action": "USER_LOGIN",
+    "reference": "admin",
+    "details": "User Kasun Rathnayake (Admin) logged in successfully",
+    "entityType": "user",
+    "entityId": "doc_1792962664460_nupu7t",
+    "userId": "doc_1792962664460_nupu7t",
+    "userName": "Kasun Rathnayake (Admin)",
+    "userRole": "admin",
+    "ip": "::1",
+    "createdAt": "2026-10-26T05:02:16.018Z",
+    "id": "doc_1792990936018_evwf54",
+    "updatedAt": "2026-10-26T05:02:16.018Z"
+  }
+]

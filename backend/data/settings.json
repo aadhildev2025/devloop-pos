@@ -1,0 +1,27 @@
+[
+  {
+    "id": "store_settings",
+    "shopName": "DevLoop Supermarket",
+    "tagline": "Smart Retail & Inventory Management",
+    "logoUrl": "/logo.png",
+    "address": "No. 45, Galle Road, Colombo 03, Sri Lanka",
+    "phone": "+94 11 234 5678",
+    "email": "info@devlooppos.lk",
+    "currency": "LKR",
+    "currencySymbol": "Rs. ",
+    "taxEnabled": false,
+    "taxRate": 0,
+    "receiptHeader": "Thank you for shopping at DevLoop Supermarket!",
+    "receiptFooter": "Goods once sold can be exchanged within 7 days with valid receipt.\nHave a wonderful day!",
+    "thermalWidth": "80mm",
+    "showBarcodeOnReceipt": true,
+    "barcodeLabelFormat": "50x30",
+    "lowStockThreshold": 10,
+    "sessionTimeoutMinutes": 30,
+    "requirePinForPriceChange": true,
+    "requirePinForRefund": true,
+    "requirePinForStockAdjustment": true,
+    "createdAt": "2026-10-25T21:11:02.934Z",
+    "updatedAt": "2026-10-25T21:11:03.033Z"
+  }
+]

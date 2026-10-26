@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Kasun Rathnayake (Admin)",
+    "username": "admin",
+    "email": "admin@devlooppos.lk",
+    "password": "$2b$10$MPvMTbR/w.m.qYw5BcB.TOfwyVzsxhJnJrJZwlP8e0/TRDeKYN.x.",
+    "pin": "$2b$10$d5udbWW/g/5xJe7BK8Ye8exJuVDDB/XFXeymtpV.ifXoEses4I6Sm",
+    "role": "admin",
+    "status": "active",
+    "id": "doc_1792962664460_nupu7t",
+    "createdAt": "2026-10-25T21:11:04.462Z",
+    "updatedAt": "2026-10-25T21:11:04.462Z"
+  },
+  {
+    "name": "Dilshan Silva (Manager)",
+    "username": "manager",
+    "email": "manager@devlooppos.lk",
+    "password": "$2b$10$fhf7eiq99kx52vqKpzmmbOnYOFbHk.2DbSTxer3v131gkdu5QKGP.",
+    "pin": "$2b$10$XpmEIHxMQ7li37vrHPbIUevx5X.EqKjdWajSlVg/sjUxxx9xEsso.",
+    "role": "manager",
+    "status": "active",
+    "id": "doc_1792962664465_mtwyi3",
+    "createdAt": "2026-10-25T21:11:04.465Z",
+    "updatedAt": "2026-10-25T21:11:04.465Z"
+  },
+  {
+    "name": "Shenali Perera (Cashier)",
+    "username": "cashier",
+    "email": "cashier@devlooppos.lk",
+    "password": "$2b$10$9Y7/UySVGCqJekMJz9Gkn.XcYBF9KOU0r/OUSxEhTfThSv1GnIZ06",
+    "pin": "$2b$10$TSZe9sPSEPUlq1DOS7.8VebvaroiqxXXQSQ6V7ZVu.Z4LzcMwnms.",
+    "role": "cashier",
+    "status": "active",
+    "id": "doc_1792962664468_ra3awq",
+    "createdAt": "2026-10-25T21:11:04.468Z",
+    "updatedAt": "2026-10-25T21:11:04.468Z"
+  },
+  {
+    "name": "Nuwan Jayawardena (Inventory)",
+    "username": "inventory",
+    "email": "inventory@devlooppos.lk",
+    "password": "$2b$10$/xprhkD6Xvx53lNV3s17AeqlGK.dgw.wAKJh7.OA3VPk1YIRg.82K",
+    "pin": "$2b$10$R6f/fV1USBEvG.RRo5RM6e9C6kvkIjjjumVl4qrr9ZqYa/pJsKfT.",
+    "role": "inventory_staff",
+    "status": "active",
+    "id": "doc_1792962664471_upsxqa",
+    "createdAt": "2026-10-25T21:11:04.471Z",
+    "updatedAt": "2026-10-25T21:11:04.471Z"
+  }
+]
